@@ -11,7 +11,6 @@
 <!-- - 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
 - 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Programmering designed by CodeYourFuture in partnership with [Slack](https://slack.com/). -->
 
-- 🌱 I’m currently learning **React, Machine Learning, AI**
 
 <!-- - 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases** -->
 
