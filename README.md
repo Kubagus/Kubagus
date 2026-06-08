@@ -23,7 +23,7 @@
     ![Email: kubagus@outlook.co.id](https://img.shields.io/badge/-Email-red?&logo=email)
 </a>
 <a href="https://github.com/Kubagus">
-    ![GitHub: Kubagus](https://img.shields.io/github/followers/Kubagus?label=follow&style=social)
+    ![GitHub: Kubagus](https://img.shields.io/github/followers/Kubagus)
 </a>
 
 &emsp;
@@ -73,13 +73,6 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
 &emsp;
-
-## GitHub Stats
-
-### Profile Stats
-
-<!-- <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Kubagus&show_icons=true&include_all_commits=true&count_private=false&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kubagus&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/> -->
-
 
 ### Streak Stats
 
