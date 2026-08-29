@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Ahmad Kubagus Subkhi <img src="https://avatars.githubusercontent.com/u/95695083?v=4" align="center" width="100px" alt="berkeli header image"></h1>
 
 -------------------
+
+<div align="center">
+    <img src="https://count.getloli.com/get/@kubagus?theme=asoul" /><br>
+</div>
 &emsp;
 <h3 align="left">I'm a Software Developer based in Indonesia. I enjoy building functional and user-friendly applications, focusing primarily on modern web development.</h3>
 &emsp;
@@ -77,3 +81,4 @@
 ### Streak Stats
 
 ![ GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Kubagus&theme=tokyonight)
+
