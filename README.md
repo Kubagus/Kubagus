@@ -14,7 +14,7 @@
 -------------------
 
 &emsp;
-<a href="https://kubagus.my.id/">
+<a href="https://kubagus.com/">
     ![Portfolio: Website](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=google-chrome&logoColor=white)
 </a>
 <a href="https://www.linkedin.com/in/Kubagus/">
